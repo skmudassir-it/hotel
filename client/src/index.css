@@ -23,3 +23,7 @@ code {
 .navbar-brand{
   color:beige  !important;
 }
+
+.navbar-nav{
+  margin-left: auto !important;
+}
